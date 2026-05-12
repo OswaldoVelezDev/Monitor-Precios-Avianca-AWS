@@ -11,7 +11,7 @@ Haga clic en los siguientes enlaces para ver las capturas de pantalla del despli
 3. [📂 Base de Datos DynamoDB](Evidencias/tablas_pobladas.png)
 4. [📂 Lógica en AWS Lambda](evidencias/escribimos_la_funcion_lambda.png)
 5. [📂 Disparador EventBridge](Evidencias/trigger_y_conexion_verificados.png)
-6. [📂 Prueba de Envío SES](Evidencias/mostrando_correos_SES .png)
+6. [📂 Prueba de Envío SES](Evidencias/mostrando_correos_SES.png)
 7. [📂 Alertas SNS y SES](Evidencias/correo_llegando_tanto_SNS_y_SES.png)
 8. [📂 Análisis de Costos](Evidencias/costo_estimado.png)
 
